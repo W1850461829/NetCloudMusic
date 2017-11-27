@@ -17,7 +17,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.widget.Toast;
 
 import com.navy.netcloudmusic.R;
-import com.service.MusicPlayer;
+import com.navy.netcloudmusic.service.MusicPlayer;
 import com.wm.remusic.MediaAidlInterface;
 
 import java.lang.ref.WeakReference;

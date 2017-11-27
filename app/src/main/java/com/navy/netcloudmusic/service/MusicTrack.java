@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package com.service;
+package com.navy.netcloudmusic.service;
 
 import android.os.Parcel;
 import android.os.Parcelable;

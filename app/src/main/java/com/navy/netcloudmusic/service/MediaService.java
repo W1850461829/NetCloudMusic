@@ -13,7 +13,7 @@
  * governing permissions and limitations under the License.
  */
 
-package com.service;
+package com.navy.netcloudmusic.service;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
